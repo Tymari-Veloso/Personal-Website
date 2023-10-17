@@ -10,6 +10,7 @@ class MyHeader extends HTMLElement{ //Custom element that contains header html c
                     <li><a href="../pages/contact.html">Contact</a></li>
                 </ul>
             </nav>
+            <button id="color-btn" type="button">Color Mode</button>
         </header>
     `
     }
