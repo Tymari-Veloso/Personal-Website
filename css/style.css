@@ -24,7 +24,7 @@ a:link, a:visited{
     text-decoration: none;
 }
 a:hover{
-    color: white;
+    color: rgb(77, 147, 218);
     text-decoration: underline;
 }
 a:active{
